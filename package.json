@@ -1,0 +1,23 @@
+{
+  "name": "aniversario-cidades-promise",
+  "version": "2.0.0",
+  "description": "Provê as cidades brasileiras aniversantes em determinada data ou período 🎂🎈🎉",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avelinocneto/aniversario-cidades-promise.git"
+  },
+  "author": "Avelino Neto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avelinocneto/aniversario-cidades-promise/issues"
+  },
+  "homepage": "https://github.com/avelinocneto/aniversario-cidades-promise",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jest": "^26.6.3"
+  }
+}
